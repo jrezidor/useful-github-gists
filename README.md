@@ -23,6 +23,7 @@ A curated list of handy GitHub Gists — snippets, scripts, and mini-projects th
 - [Discord.js-v14-Events.md](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb): An overview of all events in Discord.js v14 with examples
 - [discord-timestamps.md](https://gist.github.com/LeviSnoot/d9147767abeef2f770e9ddcd91eb85aa): A cheatsheet for learning Discord timestamps
 - [discordjs-cheatsheet.js](https://gist.github.com/koad/316b265a91d933fd1b62dddfcc3ff584): A cheatsheet for all Discord.js events
+- [made-with-love.html](https://gist.github.com/oliveratgithub/7192c585ce6850692199036d46d3dade): "Made with love" written in many different ways for your website
 
 ## 🙏 Contributing
 
