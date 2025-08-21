@@ -21,6 +21,7 @@ A curated list of handy GitHub Gists — snippets, scripts, and mini-projects th
 ### Cheatsheets
 
 - [Discord.js-v14-Events.md](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb): An overview of all events in Discord.js v14 with examples
+- [discord-timestamps.md](https://gist.github.com/LeviSnoot/d9147767abeef2f770e9ddcd91eb85aa): A cheatsheet for learning Discord timestamps
 
 ## 🙏 Contributing
 
